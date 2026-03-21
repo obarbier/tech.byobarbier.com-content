@@ -1,4 +1,4 @@
 {
-  "folder": "posts",
+  "folder": "content/posts",
   "template": "_templates/Post"
 }
