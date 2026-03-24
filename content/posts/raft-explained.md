@@ -11,4 +11,3 @@ description: ""
 ## Main idea
 
 ## Notes
-	

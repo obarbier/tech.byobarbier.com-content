@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2026-12.md",
+                "file": "_notes/2026-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-12"
+              "title": "2026-13"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2026-12.md",
+                "file": "_notes/2026-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-12"
+              "title": "Backlinks for 2026-13"
             }
           },
           {
@@ -219,12 +219,17 @@
   },
   "active": "84e3eb6535719b0b",
   "lastOpenFiles": [
+    "_notes/2026-13_2.md",
     "_notes/2026-13.md",
     "_notes/2026-12.md",
-    "_notes/2026-w12.md",
     "_templates/weekly.md",
-    "_templates/Now-update-snippet.md",
+    "content/posts/raft-explained.md",
+    "content/posts/building-this-blog.md",
+    "content/now/_index.md",
     "_templates/Post.md",
+    "_notes/README.md",
+    "_notes/2026-w12.md",
+    "_templates/Now-update-snippet.md",
     "_notes/2026-W12.md",
     "_notes/Untitled.md",
     "_notes/2026-03-21.md",
@@ -235,11 +240,8 @@
     "_notes/<% tp.date.now(\"YYYY-MM-DD\", -7) %>.md",
     "_notes/<% tp.date.now(\"YYYY-MM-DD\", 1, \"day\") %>.md",
     "_notes/2026-03-20.md",
-    "_notes/README.md",
     "content/_index.md",
     "content",
-    "content/posts/raft-explained.md",
-    "content/posts/building-this-blog.md",
     "content/posts/_index.md",
     "posts/202603172111.md",
     "_templates/Post.md~"

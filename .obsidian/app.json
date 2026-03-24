@@ -1,4 +1,6 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "_notes"
+  "newFileFolderPath": "_notes",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
