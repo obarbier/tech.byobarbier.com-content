@@ -1,7 +1,7 @@
 ---
 title: Weekly Engineering Log -  2026-13
 date: 2026-03-30
-draft: true
+draft: false
 tags: []
 description: ""
 ---
