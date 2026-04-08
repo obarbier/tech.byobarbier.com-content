@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c75291cadfe01a0f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "84e3eb6535719b0b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "f63ea214b90d31b9",
         "type": "tabs",
         "children": [
@@ -27,24 +11,10 @@
             "id": "0d56da046159366d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_notes/2026-14.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": true,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-14"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -227,10 +197,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "84e3eb6535719b0b",
+  "active": "0d56da046159366d",
   "lastOpenFiles": [
     "content/posts/weekly-review-2.md",
     "_notes/2026-14.md",
+    "_notes/2026-15.md",
+    "_notes/2026-16.md",
     "content/posts/weekly-review-1.md",
     "content/posts/building-this-blog.md",
     "content/posts/_index.md",
@@ -253,8 +225,6 @@
     "_notes/< tp.date.now(\"YYYY-MM-DD\", -7) >.md",
     "_notes/<% tp.date.now(\"YYYY-MM-DD\", -7) %>.md",
     "_notes/<% tp.date.now(\"YYYY-MM-DD\", 1, \"day\") %>.md",
-    "_notes/2026-03-20.md",
-    "content/_index.md",
     "content",
     "_templates/Post.md~"
   ]
