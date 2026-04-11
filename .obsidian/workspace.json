@@ -11,10 +11,24 @@
             "id": "0d56da046159366d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/weekly-review-1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "weekly-review-1"
             }
           }
         ]
@@ -199,6 +213,8 @@
   },
   "active": "0d56da046159366d",
   "lastOpenFiles": [
+    "content/now/_index.md",
+    "_templates/Post.md",
     "content/posts/weekly-review-2.md",
     "_notes/2026-14.md",
     "_notes/2026-15.md",
@@ -212,8 +228,6 @@
     "_notes/2026-13.md",
     "_notes/2026-13_2.md",
     "_templates/weekly.md",
-    "content/now/_index.md",
-    "_templates/Post.md",
     "_notes/2026-w12.md",
     "_templates/Now-update-snippet.md",
     "_notes/2026-W12.md",
