@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/weekly-review-2.md",
+                "file": "_notes/2026-16.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "weekly-review-2"
+              "title": "2026-16"
             }
           }
         ]
@@ -213,13 +213,13 @@
   },
   "active": "0d56da046159366d",
   "lastOpenFiles": [
+    "_notes/2026-15.md",
+    "_notes/2026-16.md",
+    "_notes/2026-14.md",
+    "content/posts/weekly-review-2.md",
     "content/posts/weekly-review-1.md",
     "content/now/_index.md",
     "_templates/Post.md",
-    "content/posts/weekly-review-2.md",
-    "_notes/2026-14.md",
-    "_notes/2026-15.md",
-    "_notes/2026-16.md",
     "content/posts/building-this-blog.md",
     "content/posts/_index.md",
     "content/posts/raft-explained.md",
